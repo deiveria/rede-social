@@ -1,0 +1,10 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend para a rede social.",
+  "main": "src/index.ts",
+  "repository": "https://github.com/deiveria/rede-social",
+  "author": "Deiveria",
+  "license": "MIT",
+  "private": true
+}
